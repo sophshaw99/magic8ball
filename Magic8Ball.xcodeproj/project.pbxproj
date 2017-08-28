@@ -14,6 +14,7 @@
 		92C765661F512E3600BFF645 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92C765641F512E3600BFF645 /* LaunchScreen.storyboard */; };
 		92C765711F512E3600BFF645 /* Magic8BallTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92C765701F512E3600BFF645 /* Magic8BallTests.swift */; };
 		92C7657C1F512E3600BFF645 /* Magic8BallUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92C7657B1F512E3600BFF645 /* Magic8BallUITests.swift */; };
+		92C7658A1F512E5800BFF645 /* 8ball.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 92C765891F512E5800BFF645 /* 8ball.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		92C765771F512E3600BFF645 /* Magic8BallUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Magic8BallUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		92C7657B1F512E3600BFF645 /* Magic8BallUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Magic8BallUITests.swift; sourceTree = "<group>"; };
 		92C7657D1F512E3600BFF645 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92C765891F512E5800BFF645 /* 8ball.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 8ball.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		92C7654F1F512E3600BFF645 = {
 			isa = PBXGroup;
 			children = (
+				92C765891F512E5800BFF645 /* 8ball.jpg */,
 				92C7655A1F512E3600BFF645 /* Magic8Ball */,
 				92C7656F1F512E3600BFF645 /* Magic8BallTests */,
 				92C7657A1F512E3600BFF645 /* Magic8BallUITests */,
@@ -235,6 +238,7 @@
 				92C765661F512E3600BFF645 /* LaunchScreen.storyboard in Resources */,
 				92C765631F512E3600BFF645 /* Assets.xcassets in Resources */,
 				92C765611F512E3600BFF645 /* Main.storyboard in Resources */,
+				92C7658A1F512E5800BFF645 /* 8ball.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
